@@ -1,1 +1,1 @@
-Hola mundo!
+Hola, en este proyecto recree el juego del Gato y el Raton. La idea es que el Raton tiene que escapar mientras intenta escapar del Gato, ya que este ultimo lo quiere cazar. El Gato se mueve automaticamente ya que se le implmento el algoritmo minimax. Las tecnologias que use en este proyecto son: el lenguaje Python y la extension Jupyter. El Raton se puede mover de forma simple (en un movimiento) en cruz y en diagonal, aunque, tambien se puede mover en forma doble (dos veces/espacios). El Gato se puede mover de forma simple o doble en cruz.
